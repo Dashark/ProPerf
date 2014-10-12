@@ -16,7 +16,7 @@
 
 
 // CMainFrame
-
+// Test
 IMPLEMENT_DYNCREATE(CMainFrame, CFrameWnd)
 
 BEGIN_MESSAGE_MAP(CMainFrame, CFrameWnd)
